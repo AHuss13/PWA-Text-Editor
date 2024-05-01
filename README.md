@@ -2,25 +2,19 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
+The purpose of this project was to build a text editor for the browser that can store user input and meets PWA criteria.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Run `npm` or `pnpm install`, `npm/pnpm run build`, and then `npm/pnpm run start`.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+You may add whatever text that you would like to the editor.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+Link to deployed site: [Here](https://txteditor-f38f2536ed69.herokuapp.com/)
 
-![alt text](assets/images/screenshot.png)
+![Deployed site image](/Assets/texteditor.png)
 
 ## License
 
@@ -45,4 +39,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
